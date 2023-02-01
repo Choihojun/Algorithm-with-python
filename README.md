@@ -25,12 +25,12 @@ Reference book: Do it! 자료구조와 함께 배우는 알고리즘 입문
 
 ## 4. Sort Algorithm
 
-- 4.1. Sort algorithm 
+- 4.1. Sort algorithm
 - 4.2. Bubble sort
 - 4.3. Simple selection sort
 - 4.4. Simple insertion sort
 - 4.5. Cell sort
-- 4.6. Quick sort 
+- 4.6. Quick sort
 - 4.7. Merge sort
 - 4.8. Counting sort (도수 정렬)
 
@@ -42,7 +42,7 @@ Reference book: Do it! 자료구조와 함께 배우는 알고리즘 입문
 
 ## 6. List
 
-- 6.1. Linked list 
+- 6.1. Linked list
 - 6.2. Linked list using pointer
 - 6.3. Linked list using cursor
 - 6.4. Circular doubly linked list
@@ -51,7 +51,6 @@ Reference book: Do it! 자료구조와 함께 배우는 알고리즘 입문
 
 - 7.1. Structure of Tree
 - 7.2. Binary Tree and Binary search tree
-
 
 ### Connect with VS Code
 
