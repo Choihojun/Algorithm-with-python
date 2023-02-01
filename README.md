@@ -51,3 +51,10 @@ Reference book: Do it! 자료구조와 함께 배우는 알고리즘 입문
 
 - 7.1. Structure of Tree
 - 7.2. Binary Tree and Binary search tree
+
+
+### Connect with VS Code
+
+- Make local folder 
+
+
