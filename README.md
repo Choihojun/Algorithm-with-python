@@ -55,6 +55,13 @@ Reference book: Do it! 자료구조와 함께 배우는 알고리즘 입문
 
 ### Connect with VS Code
 
-- Make local folder 
-
-
+- 1.Create new repository at Github
+- 2.play the VS Code and click the source control button
+- 3.Click 'initialize repository' button
+- 4.Click '+' button which is next to file (changes to staging level)
+- 5.Write comment and click commit button
+- 6.Play terminal at VS Code
+- 7.Type git remote add origin [ 복사한 저장소 주소 ]
+- 8.Type git pull origin main --allow-unrelated-histories
+- 9.Type git push -u origin master (push to remote repo)
+- 10.Check the state at Github and click Compare & pull request button
