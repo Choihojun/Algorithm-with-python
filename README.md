@@ -64,3 +64,10 @@ Reference book: Do it! 자료구조와 함께 배우는 알고리즘 입문
 - 8.Type git pull origin main --allow-unrelated-histories
 - 9.Type git push -u origin master (push to remote repo)
 - 10.Check the state at Github and click Compare & pull request button
+
+### Make Virtual Environment
+
+- conda create -n algorithm_practice python=3.7
+- conda activate algorithm_practice
+- conda install ipykernel
+- conda install jupyter
