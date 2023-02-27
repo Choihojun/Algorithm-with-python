@@ -36,7 +36,7 @@ Reference book: Do it! 자료구조와 함께 배우는 알고리즘 입문
 
 ## 5. String search
 
-- 5.1. Brute force method
+- 5.1. Brute force method (문자열 검색)
 - 5.2. KMP method
 - 5.3. Boyer-Moore method
 
